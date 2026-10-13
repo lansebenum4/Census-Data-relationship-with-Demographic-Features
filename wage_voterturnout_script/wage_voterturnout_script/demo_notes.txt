@@ -1,0 +1,9 @@
+python3 average_hourly_wage.py "Newfoundland and Labrador"
+python3 average_hourly_wage.py "Ontario"
+
+
+Note:
+- Focusing on our question: "Does average hourly wage relate to voter turnout?"
+- Only Newfoundland and Ontario works. 
+- Gives us data to compare, currently as table but soon a graph will be output.
+- Data gathered allows for us to start viewing potential relationships within our variables.
